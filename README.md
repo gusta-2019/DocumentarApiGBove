@@ -1,6 +1,7 @@
 <div align="center">
 
-# GuitarLA
+# Cosecha DIVINA
+<img src= "src/public/img/3.png" alt="Logo de la tienda">
 
 <table class="no-border">
   <tr>
