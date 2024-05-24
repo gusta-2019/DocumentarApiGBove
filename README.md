@@ -32,15 +32,15 @@
 
 ## Introducción📌
 
-**GuitarLA** (_Guitar Los Ángeles_) es un ecommerce de venta de guitarras, realizado enteramente con el stack MERN, como proyecto final para el curso de Programación Backend de Coderhouse, en su parte backend, y como parte del curso React - La Guía Completa de Juan Pablo de la Torre Valdez en Udemy.
+**COSECHA DIVINA** es un ecommerce de venta de vinos, realizado enteramente con el stack MERN, como proyecto final para el curso de Programación Backend de Coderhouse, en su parte backend
 
 ## Backend deployment URL📌
 
-https://guitarla-backend-cfsg.onrender.com/
+https://
 
 ## Frontend deployment URL📌
 
-https://willowy-cobbler-ebd376.netlify.app/
+https://
 
 ## Características del proyecto Backend📌
 
@@ -102,7 +102,7 @@ password: 123456
 
 ## Instalación📌
 ```
-git clone https://github.com/valessol/BE32190-Coderhouse.git
+git clone 
 cd BE32190-Coderhouse.git
 ```
 
@@ -141,7 +141,7 @@ A continuación se listan los endpoint correspondientes, junto con una breve des
 | -------- | -------- | ----------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `/`      | GET      | Obtener todos los productos   | No   | -                                                                                                                                                                                                       |
 | `/:id`   | GET      | Obtener un producto por su Id | No   | -                                                                                                                                                                                                       |
-| `/`      | POST     | Guardar un producto           | Sí   | `{ "title": "Blackmore", "price": 359, "description": "Ut malesuada vitae neque sit amet congue. Suspendisse potenti. Mauris …", "url": "guitarra_12_xzmjnz", "stock": 8, "category": "instrumentos" }` |
+| `/`      | POST     | Guardar un producto           | Sí   | `{ "title": "Alambrado", "price": 359, "description": "Cabernet Sauvignon", "url": "vino_12_xzmjnz", "stock": 8, "category": "Tinto" }` |
 | `/:id`   | PUT      | Actualizar un producto        | Sí   | `{ "price": 389 }`                                                                                                                                                                                      |
 | `/:id`   | DELETE   | Eliminar un producto          | Sí   | -                                                                                                                                                                                                       |
 
